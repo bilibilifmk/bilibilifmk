@@ -1,6 +1,6 @@
 ### I see you ！👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=bilibilifmk&show_icons=true&title_color=ff2686&icon_color=FB7299&text_color=FB7299&bg_color=ffffff&hide_title=false" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=bilibilifmk&show_icons=true&title_color=ff2686&icon_color=FB7299&text_color=FB7299&bg_color=ffffff&hide_title=false&locale=cn" />
 
 全世界最可爱的全栈娘(自封的)
 
